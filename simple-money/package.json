@@ -1,0 +1,21 @@
+{
+  "name": "time_format",
+  "version": "0.0.5",
+  "description": "a very simple time format util",
+  "main": "time_format.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/bughou/time_format",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/bughou/time_format.git"
+  },
+  "keywords": [
+    "simple",
+    "time",
+    "format"
+  ],
+  "author": "bughou@gmail.com",
+  "license": "ISC"
+}
